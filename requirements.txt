@@ -10,3 +10,7 @@ DATA IS ARTIFICIAL TO PROTECT THE DATA BREACH.
 no paid versions or only open source libraries in python should be used.
 python version is 3.14
 money is in INR
+pandas==2.2.3
+numpy==2.3.5
+scikit-learn==1.8.0
+joblib==1.5.3
