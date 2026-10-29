@@ -7,3 +7,6 @@ DATA IS ALREADY PROVIDED
 USE PYTHON AND ITS ASSOCIATED LIBRARIES
 CONTINUOUS WORKFLOW
 DATA IS ARTIFICIAL TO PROTECT THE DATA BREACH.
+no paid versions or only open source libraries in python should be used.
+python version is 3.14
+money is in INR
